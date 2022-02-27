@@ -8,3 +8,5 @@
 - Javascript
 
 
+For live demo
+[click me](https://aswinisankar.github.io/stonepaperscissorgame/)
